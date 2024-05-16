@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592584084591",
+    "project_id": "psyeasy-7fa5a",
+    "storage_bucket": "psyeasy-7fa5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592584084591:android:154582433d387bbf43919a",
+        "android_client_info": {
+          "package_name": "com.example.psyeasy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB5ruYujNncdvlLXod8hpWqV2b0QHgWcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
